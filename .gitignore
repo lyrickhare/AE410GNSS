@@ -1,3 +1,5 @@
 
 *.BIN
 fastCudaNumba/
+*.mat
+*.uint8
